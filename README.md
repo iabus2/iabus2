@@ -6,4 +6,4 @@ I enjoy working with different technologies, and enjoy making projects that have
 
 🔭 Previous and current projects
 - [BlitzAndCrank:](https://github.com/iabus2/BlitzAndCrank) A discord bot that allows users to get quick info on their rank, champion masteries, account level, and also recieve AI coaching on their in-game matchups.
-- 
+- PokePal: A pokemon themed webapp that allows users to set different goals, catch pokemon, and grow with their pokemon as they complete their tasks and gain experience. (Repo will be made public soon)
