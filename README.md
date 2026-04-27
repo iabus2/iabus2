@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am currently an undergrad CS studnet at the University of Illinois Chicago. I enjoy working with different technologies, and enjoy making projects that have personal touches to them!
+I am currently an undergrad CS studnet at the University of Illinois Chicago. 
+I enjoy working with different technologies, and enjoy making projects that have personal touches to them! Check them out!
 <!--
 **iabus2/iabus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
